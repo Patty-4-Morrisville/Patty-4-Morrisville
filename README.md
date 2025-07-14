@@ -10,5 +10,7 @@
 
 ## In the News
 
+![signal-2025-07-14-194839_002](https://github.com/user-attachments/assets/f66da691-770e-481a-b086-4f8b3c29f3da)
+
 **Vote Patty Cheng for Town Council.**
 Better roads, lower taxes, stronger partnerships—engineered for all of Morrisville.
