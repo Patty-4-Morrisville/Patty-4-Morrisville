@@ -4,7 +4,9 @@
 
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/Patty-4-Morrisville/Patty-4-Morrisville)
 
-WIP...
+[’25 Engineering Positive Change Manifesto](https://github.com/Patty-4-Morrisville/Patty-4-Morrisville/blob/main/drafts/manifesto.md)
+
+[Patty Wei-Pei Cheng: A Biography](https://github.com/Patty-4-Morrisville/Patty-4-Morrisville/blob/main/drafts/bio.md)
 
 ## In the News
 
